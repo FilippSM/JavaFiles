@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f9e021c-a5e5-4aae-a4ff-afae209679bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZJcSm4Xvm88E68QA3GOfUJdIUW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project-java" />
+  </component>
+  <component name="RunManager" selected="Application.MainVariablesParam">
+    <configuration name="AubClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AubClasses" />
+      <module name="epamJavaClasses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cat" />
+      <module name="epamJavaClasses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainVariablesParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainVariablesParam" />
+      <module name="epamJavaClasses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods" />
+      <module name="epamJavaClasses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Overload" />
+      <module name="epamJavaClasses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainVariablesParam" />
+        <item itemvalue="Application.Overload" />
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.Cat" />
+        <item itemvalue="Application.AubClasses" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f9e021c-a5e5-4aae-a4ff-afae209679bb" name="Default Changelist" comment="" />
+      <created>1584560639922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584560639922</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="84" y="296" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584794274552">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="84" y="296" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1584794274552" />
+    <state x="489" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1584904639689">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="489" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1584904639689" />
+    <state x="448" y="183" key="FileChooserDialogImpl" timestamp="1585403176835">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1585157913638" />
+    <state x="448" y="183" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585403176835" />
+    <state width="1203" height="166" key="GridCell.Tab.0.bottom" timestamp="1585169678830">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1203" height="166" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1585169678830" />
+    <state width="1203" height="166" key="GridCell.Tab.0.center" timestamp="1585169678830">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1203" height="166" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1585169678830" />
+    <state width="1203" height="166" key="GridCell.Tab.0.left" timestamp="1585169678829">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1203" height="166" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1585169678829" />
+    <state width="1203" height="166" key="GridCell.Tab.0.right" timestamp="1585169678830">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1203" height="166" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1585169678830" />
+    <state x="393" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1585403160649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="503" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1585153006415" />
+    <state x="393" y="372" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585403160649" />
+  </component>
+</project>
